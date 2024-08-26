@@ -7,4 +7,4 @@ CSS positioning
 Media query
 
 ```
-### Deployment [link](https://blueprisoner.github.io/youtube-clone/)
+### [Deployment link](https://blueprisoner.github.io/youtube-clone/)
