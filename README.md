@@ -3,7 +3,7 @@
 ```
 Grids
 Flexbox
-Relative and Absolute positioning
+CSS positioning
 Media query
 
 ```
